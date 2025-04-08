@@ -1,0 +1,14 @@
+clasificacion de codigos http
+
+1xx - respuestas informativas: 
+2xx - respuestas sactisfactorias: el servidor ha recibido entiendido y procesado correctamente 
+3xx - respuestas movimiento: 
+4xx - respuestas error cliente: 
+5xx - respuestas errores del servidor: 
+
+
+
+Express: 
+
+es un framework en backend en node.js paa desarrollar aplicaciones de backend escalables
+
